@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Sweet Bakery",
+    "deskripsi": "Landing page toko roti dengan desain aesthetic dan menu favorit.",
+    "gambar": "assets/bakeryy.png",
+    "kategori": "web"
+  },
+  {
+    "nama": "Bayleaf Property",
+    "deskripsi": "Website properti modern untuk menampilkan rumah dengan harga dan fasilitas.",
+    "gambar": "assets/properti.png",
+    "kategori": "web"
+  },
+  {
+    "nama": "Toko Buku",
+    "deskripsi": "Website katalog buku dengan fitur pencarian, kategori, dan keranjang sederhana.",
+    "gambar": "assets/toko.png",
+    "kategori": "web"
+  },
+  {
+    "nama": "Dashboard Kandang Ayam",
+    "deskripsi": "Dashboard monitoring suhu, kelembapan, dan kondisi kandang ayam secara real-time.",
+    "gambar": "assets/kandang.png",
+    "kategori": "web"
+  },
+  {
+    "nama": "Portfolio Pribadi",
+    "deskripsi": "Website portfolio yang menampilkan profil, skill, dan project yang pernah dibuat.",
+    "gambar": "assets/portofolio.png",
+    "kategori": "web"
+  }
+]
